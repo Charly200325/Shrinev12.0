@@ -15,7 +15,6 @@
         "template--21507361505575__cfca4268-6358-426c-98ab-d292aeef11e5-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/realist_one-filter.png",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -358,8 +357,6 @@
         "slide_Ld6wPP": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/men_running_in_the_beach.png",
-            "mobile_image": "shopify://shop_images/men_carre.png",
             "heading": "Use It Everywhere",
             "heading_size": "h1",
             "subheading": "Feel fresh, wherever you are. Whether you’re running, shopping, picnicking, or dining outdoors, this lightweight neck fan provides a steady breeze. It’s hands-free and made for everyday use.",
@@ -380,8 +377,6 @@
         "slide_DAG8pP": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/ssafety.png",
-            "mobile_image": "shopify://shop_images/ssafety.png",
             "heading": "Unmatched Safety",
             "heading_size": "h1",
             "subheading": "The bladeless, fully enclosed design ensures complete safety for all users. No exposed parts, no risks. Perfect for everyday use, even around children and pets.",
@@ -402,8 +397,6 @@
         "slide_44FK3i": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
-            "mobile_image": "shopify://shop_images/a63e7810-4138-4abf-9b6b-bc7342c513b9.png",
             "heading": "Highest Tech",
             "heading_size": "h1",
             "subheading": "Our neck fan offers adjustable airflow from a gentle breeze to powerful cooling. It features a high-capacity 5000mAh battery that lasts up to 16.5 hours and uses a 360° Dynamic Airflow System for maximum efficiency.",
@@ -670,7 +663,7 @@
       "settings": {
         "display_id": false,
         "visibility": "always-display",
-        "product": "new-mini-neck-fan-portable-bladeless-hanging-neck-rechargeable-air-cooler-mini-summer-sports-fans",
+        "product": "warm-hug-robe™-your-cozy-cocoon-of-warmth-and-softness",
         "color_scheme": "background-1",
         "secondary_background": false,
         "media_size": "medium",
